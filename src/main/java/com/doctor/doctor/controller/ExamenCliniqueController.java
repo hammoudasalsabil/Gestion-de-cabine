@@ -13,9 +13,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.doctor.doctor.dao.ExamenCliniqueRepository;
-import com.doctor.doctor.model.Doctor;
 import com.doctor.doctor.model.ExamenClinique;
-import com.doctor.doctor.model.Utilisateur;
 
 @CrossOrigin(origins = "http://localhost:4200")
 @RestController
